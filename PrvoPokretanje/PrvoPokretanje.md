@@ -31,10 +31,14 @@ Kako bi raspakovali Rasbian na SD karticu treba uraditi sledeće:
 3. Pokrenite Etcher i pronađite image fajl od Raspbiana koji ste preuzeli
 4. Odaberite vašu SD karticu i kliknite na Flash
 
+![Etcher](images/Etcher.png)
+
 Nakon nekoliko minuta Etcher će pripremiti SD karticu i raspakovati Raspbian.
 
 Kada Etcher završi kopiranje fajlova SD karticu možete izvaditi iz čitača. Ubacite karticu u Raspberry Pi , priključite monitor ili TV, miša i tastaturu. Priključite napajanje.
 
 Nakon nekoliko sekundi pojaviće se Rasbian ekran dobrodošlice. Sačekajte nekoliko minuta da se operativni sistem pripremi za prvo pokretanje.
 
-Čestitamo uspešno se instalirali Raspbian na Raspberry Pi.
+![Welcome](images/RasbianWelcome.png)
+
+Čestitamo uspešno se instalirali Raspbian!
