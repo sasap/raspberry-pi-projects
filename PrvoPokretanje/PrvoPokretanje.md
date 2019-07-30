@@ -43,4 +43,4 @@ Nakon nekoliko sekundi pojaviće se Rasbian ekran dobrodošlice. Sačekajte neko
 
 Čestitamo uspešno se instalirali Raspbian!
 
-![Welcome](images/Rasbian.png)
+![Raspbian](images/Raspbian.png)
