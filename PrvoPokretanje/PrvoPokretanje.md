@@ -1,6 +1,12 @@
 # Sklapamo Raspberry Pi i instaliramo Raspbian
 
-## Šta nam je sve potrebno
+## Instaliranje Rasbpian operativnog sistema
+
+Raspbian je popularna distribucija Debian Linux operativnog sistema prilagođena Raspberry Pi računarima. Postoje dve popularne distribucije Raspbian-a Raspian Desktop - OS sa grafičkim okruženjem i Raspbian Lite - minimalistička verzija bez grafičkgog okruženja sa ciljem da zauzme što manje prostora na SD kartici. Mi ćemo se baviti instalacijom Rasbian Desktop operativnog sistema.
+
+---
+
+## Recept
 * Raspberry Pi Model B+
 * Micro SD kartica 8GB ili veća
 * Napajanje
@@ -10,10 +16,7 @@
 
 ![Raspberi](images/DSC_0712.JPG)
 
-## Instaliranje Rasbpian operativnog sistema
-
-Raspbian je popularna distribucija Debian Linux operativnog sistema prilagođena Raspberry Pi računarima. Postoje dve popularne distribucije Raspbian-a Raspian Desktop - OS sa grafičkim okruženjem i Raspbian Lite - minimalistička verzija bez grafičkgog okruženja sa ciljem da zauzme što manje prostora na SD kartici. Mi ćemo se baviti instalacijom Rasbian Desktop operativnog sistema.
-
+---
 
 ### Preuzimanje Raspian image-a
 
