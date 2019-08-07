@@ -47,3 +47,5 @@ Nakon nekoliko sekundi pojaviće se Rasbian ekran dobrodošlice. Sačekajte neko
 Čestitamo uspešno se instalirali Raspbian!
 
 ![Raspbian](images/Raspbian.png)
+
+Raspian dolazi sa mnoštvom preinstaliranih aplikacija. O samim aplikacijama govorićemo opširnije u posebnim tutorijalima.
